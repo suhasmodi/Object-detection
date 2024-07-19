@@ -1,4 +1,0 @@
-tkinter
-opencv-python
-Pillow
-ultralytics
